@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://proverit-sertifikat.github.io/sitemap.xml
